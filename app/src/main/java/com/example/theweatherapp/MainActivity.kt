@@ -37,7 +37,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             TheWeatherAppTheme {
                 Surface {
-                    WeatherScreen()
+                    WeatherScreen()//correct
                 }
             }
         }
